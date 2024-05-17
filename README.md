@@ -1,7 +1,6 @@
-# Odense Summer School in Computational Proteomics 2021
-![Workflow](./assets/MSWorkflow2.png)
+# BalticSeaBioMed Summer School in Seili 2024
 
-Odense – 2021 is part of the “Open Educational Resources in Computational Biomedicine” (OERCompBiomed) project conducted by NordBioMed.org and funded by Erasmus+.
+TODO: Odense – 2021 is part of the “Open Educational Resources in Computational Biomedicine” (OERCompBiomed) project conducted by NordBioMed.org and funded by Erasmus+.
 
 NordBioMed is a collaborative network in the field of Biomedicine between the Universities of Turku, Eastern Finland (Kuopio), Bergen, Odense and Karolinska Institutet. The network was originally formed in 2013 to strengthen the individual biomedical teaching programs within the component universities and make them internationally more comparative by providing complementary activities from the partner universities. The network supports both student and teacher mobility, organizes intensive courses and develops a virtual online teaching and information platform on the OpenedX platform, supported by a GitHub repository. The topic for the 2021 Summer school is computational proteomics.
 
@@ -31,9 +30,6 @@ your computer for the computational exercises at the Summer School https://rise.
 Please also get familiar with the R programming language by attending the [Introduction in R](https://learn.datacamp.com/courses/free-introduction-to-r) on DataCamp.
 
 We expect you to have a working Jupyter environment with Python and R kernels.
-
-**Online platform (potential)**
-We will try out the AirMeet platform that allows a more conference-like environment and increased social interactions: link TBA
 
 
 
