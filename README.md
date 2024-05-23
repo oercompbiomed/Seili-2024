@@ -1,18 +1,18 @@
 # BalticSeaBioMed Summer School in Seili 2024
 
-TODO: Odense – 2021 is part of the “Open Educational Resources in Computational Biomedicine” (OERCompBiomed) project conducted by NordBioMed.org and funded by Erasmus+.
+The Summer School on Human Health and Environment by the Baltic Sea in Seili is organised by the Nordic network BalticSeaBioMed, comprised of the Universities of Eastern Finland, Southern Denmark, Turku, Vilnius, Åbo Akademi University and Karolinska Institutet.
 
-NordBioMed is a collaborative network in the field of Biomedicine between the Universities of Turku, Eastern Finland (Kuopio), Bergen, Odense and Karolinska Institutet. The network was originally formed in 2013 to strengthen the individual biomedical teaching programs within the component universities and make them internationally more comparative by providing complementary activities from the partner universities. The network supports both student and teacher mobility, organizes intensive courses and develops a virtual online teaching and information platform on the OpenedX platform, supported by a GitHub repository. The topic for the 2021 Summer school is computational proteomics.
+BalticSeaBioMed builds on the highly successful work of our founding network, NordBioMedNet, and makes an important innovative leap to bring state-of-the-art biomedical methodology into global health research. Here, we apply funding for a new Master's level intensive course to teach with new digi-pedagogical tools and focus on a new theme: the environmental impact of human behaviour. As an example and an educational “case study”, we will examine the effect of human use of pharmaceuticals and certain other harmful factors or changes on the Baltic Sea, and study them with modern biomedical omics technologies and large-scale data analysis using advanced computational methods. Our goal is to train the students in the skills and competencies required to solve complex problems of global health by using the challenges closer to us; the populations and well-being around the Baltic Sea as an example.
 
-For the official program, see https://nordbiomed.org/wp-content/uploads/2021/05/NordBioNet-Summer-School-2021-Computational-Proteomics-programme_210719.pdf
+For the official program, see https://ki.instructure.com/courses/24319
 
-**The topic for the 2020 Summer school is computational proteomics. This year the course will virtual due to the current situation with COVID-19.**
+### Learning aims:  
+Students will apply their previous knowledge to identify relevant and realistic topics/problems in the field of Biomedicine.  
+Students will work in groups and each group is guided by a junior mentor.  
+Based on the course material and guidance during the summer school, each group will develop and present a virtual preclinical research project to solve the selected problems.  
+The final report/assignment will be prepared individually after the summer school.  
 
-### Learning aims:
-
-Students will apply their previous knowledge to identify relevant and realistic topics/problems in the field of computational proteomics. In the workshops, students will work in groups of 4-5 students. 
-
-### Before the Summer School
+### Tasks for before the Summer School
 
 Please get familiar with the following material and platforms:
 
