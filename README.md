@@ -30,7 +30,7 @@ TODO: link to material on EBI
 **Introduction in protein structure**<br>
 TODO: link to material on EBI about AlphaFold
 
-**How to install PYMOL and Cytoscape** 
+**Install PYMOL and Cytoscape** 
 TODO
 
 Please also get familiar with the R programming language by attending the [Introduction in R](https://learn.datacamp.com/courses/free-introduction-to-r) on DataCamp.
