@@ -31,7 +31,13 @@ Please take this online course: https://www.ebi.ac.uk/training/online/courses/pr
 TODO: link to material on EBI about AlphaFold
 
 **Install PYMOL and Cytoscape** 
-TODO
+
+_Cytoscape_:
+Please make sure that you have the latest version of Cytoscape installed. Then start Cytoscape and update the current apps if necessary by checking the App Updates icon in the right-most corner of the manubar.
+
+The exercises require you to have certain Cytoscape apps installed. Go to the [Cytoscape App Store](https://apps.cytoscape.org/) in your web browser and search for stringApp, select the app and press the Install button to install it. Similarly, make sure you have the yFiles Layout Algorithms and clusterMaker2 apps installed before switching back to Cytoscape.
+
+If you are not already familiar with the STRING database, we highly recommend that you go through the short [STRING exercises](https://jensenlab.org/training/string/) to learn about the underlying data before working with it in these exercises.
 
 Please also get familiar with the R programming language by attending the [Introduction in R](https://learn.datacamp.com/courses/free-introduction-to-r) on DataCamp.
 
