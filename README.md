@@ -18,6 +18,7 @@ Please get familiar with the following material and platforms:
 
 **Group work**<br/>
 Here you will learn about getting most from the group work: https://rise.articulate.com/share/YOSU8I4BZjkJZK4_KUlIjcvBVzBMvs1x
+TODO: Exampl of group contract
 
 **Basics in Proteomics**<br/>
 Enroll into the "Computational Proteomics Course" (you need to sign up) and finish "Brush-up: The Basics of Proteomics and Mass Spectrometry"
