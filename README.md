@@ -30,6 +30,9 @@ TODO: link to material on EBI
 **Introduction in protein structure**<br>
 TODO: link to material on EBI about AlphaFold
 
+**How to install PYMOL**
+TODO
+
 Please also get familiar with the R programming language by attending the [Introduction in R](https://learn.datacamp.com/courses/free-introduction-to-r) on DataCamp.
 
 We expect you to have a working Jupyter environment with Python and R kernels.
