@@ -25,7 +25,7 @@ A short introduction to programming and how to prepare yourself and
 your computer for the computational exercises at the Summer School https://rise.articulate.com/share/Y-vw0ZckATqKqyh4u44c8p9YN-UEtr8r
 
 **Protein interaction**<br>
-TODO: link to material on EBI
+Please take this online course: https://www.ebi.ac.uk/training/online/courses/protein-interactions-and-their-importance/
 
 **Introduction in protein structure**<br>
 TODO: link to material on EBI about AlphaFold
