@@ -18,11 +18,7 @@ Please get familiar with the following material and platforms:
 
 **Group work**<br/>
 Here you will learn about getting most from the group work: https://rise.articulate.com/share/YOSU8I4BZjkJZK4_KUlIjcvBVzBMvs1x
-TODO: Exampl of group contract
-
-**Basics in Proteomics**<br/>
-Enroll into the "Computational Proteomics Course" (you need to sign up) and finish "Brush-up: The Basics of Proteomics and Mass Spectrometry"
-The courses is located on our Open Edx platforms: http://training.bmb.sdu.dk/courses/course-v1:University_of_Southern_Denmark+SDU_BMB_COMPPROT+2020_1/about
+TODO: Example of group contract
 
 **Python, R and friends:**<br>
 A short introduction to programming and how to prepare yourself and
