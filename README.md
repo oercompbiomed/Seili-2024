@@ -18,7 +18,7 @@ Please get familiar with the following material and platforms:
 
 **Group work**<br/>
 Here you will learn about getting most from the group work: https://rise.articulate.com/share/YOSU8I4BZjkJZK4_KUlIjcvBVzBMvs1x
-TODO: Example of group contract
+Please, download and fill in [the Group Contract](https://docs.google.com/document/d/1FGXvsIj3rQHaUlSEHfysecQqVYXKVVat/edit?usp=drive_link&ouid=108198762102362181813&rtpof=true&sd=true) with your group members.  
 
 **Python, R and friends:**<br>
 A short introduction to programming and how to prepare yourself and
@@ -48,5 +48,5 @@ We expect you to have a working Jupyter environment with Python and R kernels.
 
 _PyMOL_: 
 PyMOL is a molecular visualization program for studying and preparing figures of macromolecular 3D structures. <br>
-Please download and install PyMOL2.6 on your laptop: [Instructions how to download and install PyMol](https://drive.google.com/file/d/1dstgCJWxNRLcxs6P9uty7EDVVYL9a6M_/view?usp=drive_link). You will get the license file for the program later during the course.
+Please download and install PyMOL2.6 on your laptop: [Instructions how to download and install PyMOl](https://drive.google.com/file/d/1dstgCJWxNRLcxs6P9uty7EDVVYL9a6M_/view?usp=drive_link). You will get the license file for the program later during the course.
 
