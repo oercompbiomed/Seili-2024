@@ -31,7 +31,7 @@ Please take this online course: https://www.ebi.ac.uk/training/online/courses/pr
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/
 
 **Introduction to AlphaFold2 for predicting 3D structures for proteinse**<br>
-Please take this online course: https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/
+Please take this online course: https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/<br> The course is comprehensive but you should do only this part and, thereafter, take [Test your knowledge](https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/test-your-knowledge/). 
 
 **Install Cytoscape and PyMOL** 
 
