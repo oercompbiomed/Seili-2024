@@ -27,13 +27,13 @@ your computer for the computational exercises at the Summer School https://rise.
 **Protein interaction**<br>
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/protein-interactions-and-their-importance/
 
-**Introduction in biomacromolecular structure**<br>
+**Introduction to biomacromolecular structure**<br>
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/
 
-**Introduction in AlphaFold2 for predicting 3D structures for proteinse**<br>
+**Introduction to AlphaFold2 for predicting 3D structures for proteinse**<br>
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/
 
-**Install PYMOL and Cytoscape** 
+**Install Cytoscape and PyMOL** 
 
 _Cytoscape_:
 Please make sure that you have the latest version of Cytoscape installed. Then start Cytoscape and update the current apps if necessary by checking the App Updates icon in the right-most corner of the manubar.
@@ -46,5 +46,7 @@ Please also get familiar with the R programming language by attending the [Intro
 
 We expect you to have a working Jupyter environment with Python and R kernels.
 
-
+_PyMOL_: 
+PyMOL is a molecular visualization program for studying and preparing figures of macromolecular 3D structures. <br>
+Please download and install PyMOL2.6 on your laptop: [Instructions how to download and install PyMol](https://drive.google.com/file/d/1dstgCJWxNRLcxs6P9uty7EDVVYL9a6M_/view?usp=drive_link). You will get the license file for the program later during the course.
 
