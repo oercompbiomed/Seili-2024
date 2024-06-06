@@ -27,8 +27,11 @@ your computer for the computational exercises at the Summer School https://rise.
 **Protein interaction**<br>
 Please take this online course: https://www.ebi.ac.uk/training/online/courses/protein-interactions-and-their-importance/
 
-**Introduction in protein structure**<br>
-TODO: link to material on EBI about AlphaFold
+**Introduction in biomacromolecular structure**<br>
+Please take this online course: https://www.ebi.ac.uk/training/online/courses/biomacromolecular-structures/
+
+**Introduction in AlphaFold2 for predicting 3D structures for proteinse**<br>
+Please take this online course: https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/
 
 **Install PYMOL and Cytoscape** 
 
