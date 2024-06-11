@@ -15,6 +15,7 @@ The final report/assignment will be prepared individually after the summer schoo
 ### Tasks for before the Summer School
 
 Please get familiar with the following material and platforms:
+
 **The Ethics of Biomedicine**<br/>
 This online course will prepare you for the Ethics session in the summer school:
 https://ki.eu-west.catalog.canvaslms.com/browse/oer/courses/the-ethichs-of-biomedicine-2023
