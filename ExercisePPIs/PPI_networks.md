@@ -1,10 +1,5 @@
----
-title: Investigating the protein-protein network
-layout: single
-permalink: /training/stringapp/
-sidebar:
-  nav: "training-stringapp"
----
+# Tutorial for using the StringApp 
+
 ## Origin of material
 
 Most more these exercises has been adopted from [the StringApp exercises](https://jensenlab.org/training/stringapp/) made by Nadezhda T Doncheva and Lars J Jensen.
@@ -18,9 +13,7 @@ In these exercises, we will use the [stringApp](http://apps.cytoscape.org/apps/s
 * layout and visually style the resulting networks
 * import external data and map them onto a network
 * perform enrichment analyses and visualize the results
-* merge and compare networks
-* select proteins by attributes
-* identify functional modules through network clustering
+* select subnetworks for further investigation 
 
 ## Prerequisites
 
